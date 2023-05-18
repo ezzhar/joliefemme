@@ -59,6 +59,8 @@
     <!-- plugins:js -->
     <script src="../assets/vendors/js/vendor.bundle.base.js"></script>
     <!-- endinject -->
+      <!--firebase-->
+      <script src="../../js/firebase.js"></script>
     <!-- Plugin js for this page -->
     <!-- End plugin js for this page -->
     <!-- inject:js -->

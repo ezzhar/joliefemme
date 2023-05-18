@@ -215,6 +215,8 @@
       <script src="js/jquery-3.4.1.min.js"></script>
       <!-- popper js -->
       <script src="js/popper.min.js"></script>
+      <!--firebase-->
+      <script src="js/firebase.js"></script>
       <!-- bootstrap js -->
       <script src="js/bootstrap.js"></script>
       <!-- custom js -->

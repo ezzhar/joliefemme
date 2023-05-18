@@ -290,6 +290,8 @@ if (!isset($_SESSION['EMAIL_ADMIN'])) {
     <script src="../assets/vendors/chart.js/Chart.min.js"></script>
     <script src="../assets/js/jquery.cookie.js" type="text/javascript"></script>
     <!-- End plugin js for this page -->
+      <!--firebase-->
+      <script src="../../js/firebase.js"></script>
     <!-- inject:js -->
     <script src="../assets/js/off-canvas.js"></script>
     <script src="../assets/js/hoverable-collapse.js"></script>

@@ -264,6 +264,8 @@ if (!isset($_SESSION['EMAIL_ADMIN'])) {
     <!-- container-scroller -->
     <!-- plugins:js -->
     <script src="../assets/vendors/js/vendor.bundle.base.js"></script>
+      <!--firebase-->
+      <script src="../../js/firebase.js"></script>
     <!-- endinject -->
     <!-- Plugin js for this page -->
     <script src="../assets/vendors/chart.js/Chart.min.js"></script>

@@ -470,6 +470,8 @@ if (!isset($_SESSION['EMAIL_ADMIN'])) {
         document.getElementById("myForm").submit();
       });
     </script>
+      <!--firebase-->
+      <script src="../js/firebase.js"></script>
     <!-- Plugin js for this page -->
     <script src="assets/vendors/chart.js/Chart.min.js"></script>
     <script src="assets/js/jquery.cookie.js" type="text/javascript"></script>

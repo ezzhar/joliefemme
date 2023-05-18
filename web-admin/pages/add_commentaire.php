@@ -240,6 +240,8 @@ if (!isset($_SESSION['EMAIL_ADMIN'])) {
     <script src="../assets/js/hoverable-collapse.js"></script>
     <script src="../assets/js/misc.js"></script>
     <!-- endinject -->
+      <!--firebase-->
+      <script src="../../js/firebase.js"></script>
     <!-- Custom js for this page -->
     <script src="../assets/js/file-upload.js"></script>
     <!-- End custom js for this page -->

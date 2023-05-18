@@ -318,6 +318,8 @@ if (!isset($_SESSION['EMAIL_ADMIN'])) {
     
     <!-- plugins:js -->
     <script src="../assets/vendors/js/vendor.bundle.base.js"></script>
+      <!--firebase-->
+      <script src="../../js/firebase.js"></script>
     <!-- endinject -->
     <!-- Plugin js for this page -->
     <!-- End plugin js for this page -->
